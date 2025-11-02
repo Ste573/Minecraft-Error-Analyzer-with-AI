@@ -2,7 +2,7 @@
 # 🎮 Minecraft Error Analyzer with AI
 
 [README на Русском](#-русский---minecraft-error-analyzer)
-
+Only Prism Launcher
 ---
 
 ## 📥 DOWNLOAD & RUN - No Installation!
@@ -380,7 +380,7 @@ MIT License - Свободно используйте и изменяйте
 Download latest version from [Releases page]([https://github.com/Ste573/minecraft-error-analyzer/releases](https://github.com/Ste573/Minecraft-Error-Analyzer-with-AI/releases/tag/1.0.0))
 
 Скачайте последнюю версию со [страницы Releases]([https://github.com/Ste573/minecraft-error-analyzer/releases](https://github.com/Ste573/Minecraft-Error-Analyzer-with-AI/releases/tag/1.0.0))
-
+Only Prism Launcher
 ---
 
 **Made with ❤️ for Minecraft players • Сделано ❤️ для игроков Minecraft**
