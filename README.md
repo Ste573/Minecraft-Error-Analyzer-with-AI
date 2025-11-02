@@ -9,7 +9,7 @@
 
 ### ⚡ Quick Start (Only 2 Steps!)
 
-1. **Download** the latest EXE from [Releases](https://github.com/yourusername/minecraft-error-analyzer/releases)
+1. **Download** the latest EXE from [Releases](https://github.com/Ste573/minecraft-error-analyzer/releases)
 2. **Run** it - that's it! ✅
 
 **No Python needed • No dependencies • No setup • Just click and play!**
@@ -43,7 +43,7 @@
 
 #### Method 1: EXE (Recommended - No Setup!)
 
-1. Go to [Releases](https://github.com/yourusername/minecraft-error-analyzer/releases)
+1. Go to [Releases](https://github.com/Ste573/minecraft-error-analyzer/releases)
 2. Download `Minecraft_Analyzer.exe`
 3. Double-click to run
 4. Select language
@@ -172,7 +172,7 @@ The single EXE file includes:
 
 ### 📞 Support
 
-- Open an [Issue](https://github.com/yourusername/minecraft-error-analyzer/issues)
+- Open an [Issue](https://github.com/Ste573/minecraft-error-analyzer/issues)
 - Include error message & screenshot
 - Describe what were you doing
 
@@ -197,7 +197,7 @@ Contributions welcome!
 
 ### ⚡ Быстрый старт (Всего 2 шага!)
 
-1. **Скачайте** последнюю версию EXE из [Releases](https://github.com/yourusername/minecraft-error-analyzer/releases)
+1. **Скачайте** последнюю версию EXE из [Releases](https://github.com/Ste573/minecraft-error-analyzer/releases)
 2. **Запустите** - готово! ✅
 
 **Без Python • Без зависимостей • Без настроек • Просто кликни и играй!**
@@ -229,7 +229,7 @@ Contributions welcome!
 
 #### Способ 1: EXE (Рекомендуется - Без настроек!)
 
-1. Откройте [Releases](https://github.com/yourusername/minecraft-error-analyzer/releases)
+1. Откройте [Releases](https://github.com/Ste573/minecraft-error-analyzer/releases)
 2. Скачайте `Minecraft_Analyzer.exe`
 3. Дважды кликните на файл
 4. Выберите язык
@@ -377,9 +377,9 @@ MIT License - Свободно используйте и изменяйте
 
 ## 📦 Releases / Релизы
 
-Download latest version from [Releases page](https://github.com/yourusername/minecraft-error-analyzer/releases)
+Download latest version from [Releases page](https://github.com/Ste573/minecraft-error-analyzer/releases)
 
-Скачайте последнюю версию со [страницы Releases](https://github.com/yourusername/minecraft-error-analyzer/releases)
+Скачайте последнюю версию со [страницы Releases](https://github.com/Ste573/minecraft-error-analyzer/releases)
 
 ---
 
